@@ -43,25 +43,25 @@ namespace CentroSaude
         #endregion
 
         #region Properties
-
+        /// <summary>Obtém ou define o identificador único da pessoa.</summary>
         public int Id     
         {
             get { return Id; }
             set { Id  = value; }
         }
-
+        /// <summary>Obtém ou define o nome completo da pessoa.</summary>
         public string Nome
         {
             get { return nome; }
             set { nome = value; }
         }
-
+        /// <summary>Obtém ou define a data de nascimento da pessoa.</summary>
         public DateTime DataNascimento
         {
             get { return dataNascimento; }
             set { dataNascimento = value; }
         }
-
+        /// <summary>Obtém ou define o número de telemóvel da pessoa.</summary>
         public string Telemovel
         {
             get { return telemovel; }
