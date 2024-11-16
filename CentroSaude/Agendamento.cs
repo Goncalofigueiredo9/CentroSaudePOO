@@ -15,7 +15,6 @@ namespace CentroSaude
 
         /// <summary>Utente associado ao agendamento, 
         /// Data e hora do agendamento da consulta, 
-        /// Descrição da consulta agendada, 
         /// Staff responsável pelo agendamento, 
         /// O utente para o qual o agendamento foi feito.
         /// Descrição da consulta agendada, que pode incluir detalhes adicionais ou notas.</summary>

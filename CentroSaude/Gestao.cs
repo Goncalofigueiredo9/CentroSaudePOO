@@ -126,11 +126,11 @@ namespace CentroSaude
             {
                 utentes[utenteCount] = utente;
                 utenteCount++;
-                Console.WriteLine("Paciente registrado com sucesso!");
+                Console.WriteLine("Paciente registado com sucesso!");
             }
             else
             {
-                Console.WriteLine("Não é possível registrar mais pacientes. Limite atingido.");
+                Console.WriteLine("Não é possível registar mais pacientes. Limite atingido.");
             }
         }
         /// <summary>

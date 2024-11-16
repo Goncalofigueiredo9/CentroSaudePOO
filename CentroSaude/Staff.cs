@@ -25,7 +25,7 @@ namespace CentroSaude
         Neurologia,
         Pediatria
     }
-    /// <summary>
+    /// <summary>j
     /// Representa um membro da equipa no centro de saúde, incluindo informações pessoais, categoria profissional e especialidade.
     /// </summary>
     public class Staff : Pessoa
